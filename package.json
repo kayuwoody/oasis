@@ -1,0 +1,1 @@
+{"name": "pos-frontend", "scripts": {"build": "next build", "start": "next start"}}
